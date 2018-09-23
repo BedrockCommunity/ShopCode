@@ -9,3 +9,14 @@ Btw, last time i modified a little bit code of "original job", to be a little bi
 And easy too easy to add to be functional. Multilanguage file is posted in other repository so then :) 
 
 Btw, modal library is from FAWE, you can see imports. *GUI FOLDER*
+
+
+## Description
+
+For who want create a ShopUI plugin and don't have any ideea, code is here for all. Anyone can do anything want with them, is open source now.
+For people to know what addons have:
+Actually is a double Shop: Blocks/Items + Enchantments + Sell of Blocks/Items.(editat)
+Shop is fully modal, can be asambled easy with a command and use right function from ShopAPI.
+Enchantments Shop have support for 2 pay methods: Level /Experience or Money. Of course, this is based on my database, but can be adapted VERY VERY EASY to player experience / level and economyapi.
+Good luck for who want.
+*I don't want post all and guys use. Let's make a little work!*
